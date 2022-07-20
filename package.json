@@ -1,0 +1,23 @@
+{
+  "name": "array-methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankasamoah/array-methods.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankasamoah/array-methods/issues"
+  },
+  "homepage": "https://github.com/frankasamoah/array-methods#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
